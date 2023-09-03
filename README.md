@@ -1,5 +1,5 @@
 # Scratch-Texture-Mapper
-A png ripper for the Textured Polys Framework on scratch.
+A png ripper for the a textured tri method found here: https://scratch.mit.edu/projects/715512990/
 
 
 This is a texture mapper used for ripping images from pngs to be used in the Textured Polys Framework.

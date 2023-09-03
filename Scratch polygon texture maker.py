@@ -10,8 +10,8 @@ print ("|--/  |")
 print ("|/Here|")
 print (" ~~~~~ ")
 
-input_img_path = input("Paste path to png here:")
-Save_to = os.path.normpath(input("Paste path to write data to:"))
+input_img_path = input("Paste path to png here: ")
+Save_to = os.path.normpath(input("Paste path to write data to: "))
 
 def get_base64_encoded_image(image_path):
     with open(image_path, "rb") as img_file:
